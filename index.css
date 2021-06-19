@@ -1,0 +1,257 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+header .navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: white;
+}
+.nav-item :hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+.nav-item{
+    margin: 0 30px;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 10px;
+    transition: .3s ease-in-out;
+}
+
+header .btn button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    background: orange;
+    font-weight: 700;
+}
+header .img{
+    padding: 40px 0;
+    height: 400px;
+}
+header .img img{
+    width: 100%;
+}
+.ref1 img{
+    width: 40px;
+}
+.carousel-item img{
+    width: 100%;
+}
+.ttt1 h2{
+    color: black;
+    font-weight: 700;
+    padding-top: 100px;
+    font-size: 56px;
+}
+ .don{
+    background: #f8f9fa;
+    height: 800px;
+     color: white;
+}
+.don .col-lg-3{
+    background: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    /*width: 18rem;*/
+    margin: 0 40px;
+    color: black;
+}
+.tt span{
+    color: #999999;
+    font-size: 14px;
+}
+.btn2 button{
+    border-radius: 10px;
+    padding: 10px 60px;
+    background: orange;
+    border: none;
+}
+.href {
+    padding-top: 20px;
+    text-align: center;
+}
+.tt h4{
+    font-size: 18px;
+}
+.row{
+    padding-top: 50px;
+}
+.log {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.log .head2 img{
+    width: 70px;
+    padding-right: px;
+}
+.don .text h3{
+    font-size: 22px;
+    color: crimson;
+    padding-bottom: 20px;
+}
+.card h2{
+    text-align: center;
+    font-size: 56px;
+    padding: 60px 0;
+    color: white;
+}
+.don .text p{
+    font-size: 18px;
+}
+.don .text{
+    padding: 20px 0;
+}
+.href {
+    padding-top: 20px;
+    text-align: center;
+}
+.col-md-4{
+    background: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    /*width: 18rem;*/
+}
+/*.card1{*/
+/*    width: 18rem;*/
+/*}*/
+.tt3 p{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    font-size: 18px;
+    padding-top: 20px;
+    border-bottom: 1px solid #f8f9fa;
+}
+.beeline{
+    height: 500px;
+    background: #f8f9fa;
+}
+.my1 h2{
+    font-size: 46px;
+    font-weight: 700;
+}
+.my1 p{
+    color: #999999;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-size: 18px;
+}
+.my1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+}
+.beeline1{
+    width: 50%;
+    padding-left: 40px;
+}
+.img1 {
+width: 50%;
+}
+.my {
+padding-top: 80px;
+}
+.col-lg-6 img{
+    width: 100%;
+}
+.beeline1 button{
+    border-radius: 10px;
+    padding: 10px 60px;
+    border: none;
+    background: orange;
+
+}
+.telephone{
+    background: #f8f9fa;;
+}
+.cards1{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.card2 img{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.title h2{
+    text-align: center;
+    font-size: 46px;
+    font-weight: 700;
+    padding: 50px 0;
+}
+.card2{
+    width: 25%;
+    border: 1px solid #999999;
+}
+.tt2{
+    text-align: center;
+}
+.tt2 h5{
+    color: #999999;
+    padding: 10px 0;
+}
+.tt2 p{
+    color: blue;
+}
+.tt2 span{
+    font-weight: 700;
+    font-size: 24px;
+}
+.btn3{
+    text-align: center;
+    padding: 40px 0;
+}
+.btn3 button{
+    border-radius: 10px;
+    padding: 10px 70px;
+    border: none;
+    background: orange;
+    font-weight: 500;
+    font-size: 18px;
+}
+.telephone .col-lg-3{
+    padding-top: 30px;
+    text-align: center;
+    border: 1px solid #999999;
+}
+footer{
+    background: #313031;
+}
+footer .col-lg-3 ul li{
+    list-style: none;
+    padding: 10px 0;
+    color: #999999;
+}
+footer .col-lg-3 h4{
+    color: white;
+    font-weight: 700;
+    margin-left: 30px;
+}
+footer .col-lg-3 ul li:hover{
+    color: yellow;
+}
+.ref1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.dl{
+    color: white;
+}
+.ref1 img{
+    width: 35px;
+}

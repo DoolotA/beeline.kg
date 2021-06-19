@@ -1,0 +1,126 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header .head{
+    padding: 20px 0;
+}
+header .navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: white;
+}
+.nav-item :hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+.nav-item{
+    margin: 0 30px;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 10px;
+    transition: .3s ease-in-out;
+}
+
+header .btn button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    font-weight: 700;
+    background: orange;
+}
+header .btn button{
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: none;
+    background: orange;
+}
+.card2 img{
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.title h2{
+    text-align: center;
+    font-size: 46px;
+    font-weight: 700;
+    padding: 50px 0;
+}
+.card2{
+    width: 25%;
+    border: 1px solid #999999;
+}
+.tt2{
+    text-align: center;
+    margin: 30px 0;
+}
+.tt2 h5{
+    color: #999999;
+    padding: 10px 0;
+    font-weight: 700;
+}
+.tt2 p:hover{
+    color: orange;
+}
+.tt2 p{
+    color: blue;
+}
+.tt2 span{
+    font-weight: 700;
+    font-size: 24px;
+}
+ .telephone .col-lg-3 {
+    text-align: center;
+    border: 1px solid #999999;
+    padding-top: 40px;
+
+}
+.row{
+    padding-bottom: 50px;
+}
+.foots{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    width: 25%;
+    padding-top: 40px;
+}
+.title1{
+    padding-left: 25px;
+    color: white;
+}
+.ref1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background: #313031;
+}
+footer  .col-lg-3 ul li{
+    list-style: none;
+    padding: 10px 0;
+    color: #999999;
+}
+footer  .col-lg-3 h4{
+    color: white;
+    font-weight: 700;
+    margin-left: 30px;
+}
+footer .col-lg-3 ul li:hover{
+    color: yellow;
+}
+.ref1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.dl{
+    color: white;
+}
+.ref1 img{
+    width: 35px;
+}

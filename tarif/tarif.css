@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header .head{
+    padding: 20px 0;
+}
+header .navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: white;
+}
+.nav-item :hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+.nav-item{
+    margin: 0 30px;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 10px;
+    transition: .3s ease-in-out;
+}
+
+header .btn button{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: none;
+    background: orange;
+    font-weight: 700;
+}
+section{
+    background: #f8f9fa;
+}
+.donni .col-lg-3{
+    background: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    /*width: 18rem;*/
+    margin: 0 40px;
+}
+.aia1 .col-lg-3{
+    background: white;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    /*width: 18rem;*/
+    margin: 0 40px;
+}
+.tt span{
+    color: #999999;
+    font-size: 14px;
+}
+.btn2 button{
+    border-radius: 10px;
+    padding: 10px 80px;
+    background: orange;
+    border: none;
+}
+.href {
+    padding-top: 20px;
+    text-align: center;
+}
+.log {
+    display: flex;
+    align-items: center;
+
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+.tt h4{
+    font-size: 18px;
+}
+.row{
+    padding-top: 50px;
+}
+.text12 h2{
+    padding: 50px 0;
+    font-size: 40px;
+}
+ .text h3{
+    font-size: 18px;
+    color: crimson;
+    padding-bottom: 20px;
+}
+.log .head2 img{
+    width: 70px;
+}
+.log .head2{
+    margin-right: 10px;
+}
+.text span{
+    color: #999999;
+}
+.ttt p{
+    padding-top: 2px;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.crd1{
+    display: flex;
+    border-radius: 25px;
+    padding: 4px 10px;
+    width: 100px;
+    height: 35px;
+    margin: 0 auto;
+    background: #d9efff;
+}
+.donni{
+    padding-bottom: 100px;
+}
+.text222{
+    padding: 20px 10px;
+}
+.doo{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.btn123 button{
+    border-radius: 10px;
+    padding: 3px 10px;
+    border: none;
+    background: #999999;
+}
+.btn123 button :hover {
+    color: orange;
+    transition: .3s;
+}
+.crd{
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #999999;
+}
+.crd1{
+    margin: 0 3px;
+}
+.aia{
+    padding-bottom: 100px;
+}
+.div{
+    border: 1px solid #999999;
+    width: 100%;
+}
+.foots ul li:hover{
+    color: yellow;
+}
+.foots{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    width: 25%;
+    padding-top: 40px;
+}
+.title1{
+    padding-left: 25px;
+    color: white;
+}
+.ref1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    background: #313031;
+}
+footer .col-lg-3 ul li{
+    list-style: none;
+    padding: 10px 0;
+    color: #999999;
+}
+footer .col-lg-3 h4{
+    color: white;
+    font-weight: 700;
+    margin-left: 30px;
+}
+footer .col-lg-3 ul li:hover{
+    color: yellow;
+}
+.ref1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.dl{
+    color: white;
+}
+.ref1 img{
+    width: 35px;
+}

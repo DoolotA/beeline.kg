@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav-item :hover {
+    color: orange;
+    border-bottom: 2px solid orange;
+}
+header .navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    background: white;
+}
+.nav-item{
+    margin: 0 30px;
+    border-bottom: 2px solid transparent;
+    padding-bottom: 10px;
+    transition: .3s ease-in-out;
+}
+header .btn button{
+    padding: 8px 25px;
+    border-radius: 10px;
+    border: none;
+    background: orange;
+    font-weight: 700;
+}
+button{
+    background: orange;
+}
+
+.about .title h2{
+    padding: 100px 0;
+    font-weight: 700;
+}
+.text1{
+    padding-top: 100px;
+}
+.text1 h1{
+    padding: 50px 0;
+    font-weight: 700;
+}
+.text2{
+    padding-top: 100px;
+}
+.text2 h3{
+    padding: 50px 0;
+    font-weight: 700;
+}
+.text3{
+    padding-top: 100px;
+}
+.text3 h4{
+    padding: 50px 0;
+    font-weight: 700;
+}
+p{
+    font-size: 18px;
+    font-weight: 400;
+}
+footer{
+    background: #313031;
+}
+footer .col-lg-3 ul li{
+    list-style: none;
+    padding: 10px 0;
+    color: #999999;
+}
+footer .col-lg-3 h4{
+    color: white;
+    font-weight: 700;
+    margin-left: 30px;
+}
+footer .col-lg-3 ul li:hover{
+    color: yellow;
+}
+.ref1{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.dl{
+    color: white;
+}
+.ref1 img{
+    width: 35px;
+}
